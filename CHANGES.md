@@ -3,6 +3,7 @@
 # Changes #
 
 * @dev (????-??-??)
+  * Pinned GitHub Actions workflow dependencies to immutable commit SHAs (@koushikkallamadi).
   * Re-enabled SonarCloud analysis in the GitHub Actions build workflow (@zdimension).
   * Added anti-aliasing preference to control anti-aliasing of UI elements (@V-Zemlyakov).
   * Simplified Keyboard component buffer handling by removing redundant array-copy guards
